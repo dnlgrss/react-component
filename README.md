@@ -1,2 +1,2 @@
-# react-component
+# react-components
 Created with CodeSandbox
